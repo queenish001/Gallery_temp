@@ -38,9 +38,7 @@ html {
 body {
   /* overflow: hidden; */
   /* display: flex; */
-
   transition: padding 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-
   background-color: seashell;
 
 }
@@ -49,7 +47,6 @@ a {
   text-decoration: none;
   color: #ffffff;
 }
-
 
 header {
   z-index: 5;
@@ -547,7 +544,6 @@ header .nav nav.open .showcase {
   text-align: center;
   /* padding:15px; */
   padding: 0 12px 0 12px;
-  /* padding:0; */
   z-index: -1;
   font-family: 'Roboto', sans-serif;
   border: 1px solid gray;
