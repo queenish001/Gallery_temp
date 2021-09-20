@@ -371,6 +371,36 @@ header .nav nav.open .showcase {
   animation-name: slideInDown;
 }
 
+.logo{
+  height: 80px;
+	padding: 10px;
+	margin-top: 6px;
+  transition: transform .2s; /* Animation */
+  margin-left: -65px;
+
+}
+.logo:hover {
+  transform: scale(1.3);
+}
+
+/* .mobile-footer{
+  display: none;
+} */
+
+@media screen and (max-width :740px)
+
+
+{
+  .logo{
+    height: 90px;
+    margin-top: 25px;
+    margin-left: -20px;
+  }
+  .logo:hover {
+    transform: scale(1.0);
+  }
+}
+
 .gallery-container > a {
  /* display: flex; */
   justify-content: center;
