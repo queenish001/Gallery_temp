@@ -2,7 +2,7 @@
 
 - Events Cards
 - Gallery Page
-- Sponsors Page ✅
+- Sponsors Page
 
 
 ## Extra Info
