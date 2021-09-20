@@ -1,9 +1,6 @@
 # Working on the following pages
 
-- Events Cards
-  - Header ✅
-  - Footer  
-  - Title ✅
+- Events Cards ✅
 - Gallery Page
   - Header ✅
   - Footer
