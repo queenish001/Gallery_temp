@@ -92,7 +92,7 @@
 
 *::selection {
   background: rgba(204, 197, 197, 0.2);
-  color: #fff;
+  color: seashell;
 }
 
 /* html, body {
@@ -834,7 +834,7 @@ svg text {
 }
 
 .body{
-  background-color: seashell;
+  background-color: #f0c0da;
 }
 
 /*Heading ends */
