@@ -445,21 +445,67 @@ header .nav nav.open .showcase {
 
 /* Header ends  */
 
-  /* .container{
-    display: none;
+/*Title/ heading start*/
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #gap::before {
+    content: "\a\a\a\a\a\a\a";
+     white-space: pre;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #nogap {
+    margin-top:-880px;
   }
 
-  .circle {
-    width: 50px;
-    height: 53px;
-    border-radius: 80%;
-    background: #7343a0;
-    margin-right: 10px;
-    text-align: center;
-    color: white;
-    line-height: 50px;
-    font-size: 40px;
-  } */
+}
+
+.events_title{
+  /* position: fixed; */
+  margin: 0px;
+  margin-top: 40px;
+  display: block;
+  /* z-index: +1; */
+}
+
+svg text {
+  font-family: Lora;
+  letter-spacing: 10px;
+  stroke: #DE5D83;
+  font-size: 10vw;
+  font-weight: 700;
+  stroke-width: 3;
+  margin:0;
+  padding:0;
+  /*
+  position: relative;
+    left:8vw;
+    width: 10vw;
+    height: 8vw;
+    top:1vw; */
+  animation: textAnimate 5s infinite alternate;
+
+}
+
+@keyframes textAnimate {
+  0% {
+    stroke-dasharray: 0 50%;
+    stroke-dashoffset:  20%;
+    fill:#ffbad0;
+
+  }
+
+  100%
+ {
+    stroke-dasharray: 50% 0;
+    stroke-dashoffset: -20%;
+    fill: #e90080;
+  }
+
+}
 
 
 
@@ -475,13 +521,14 @@ header .nav nav.open .showcase {
 .head{
   color: seashell;
 }
-.container
+.event-container
 {
   /* position: relative; */
 
   max-width: 1000px;
   /* margin: 100px auto; */
-  margin: 50px auto 100px;
+  /* margin: 50px auto 100px; */
+  margin-top: 0px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
