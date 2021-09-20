@@ -1,8 +1,14 @@
 # Working on the following pages
 
 - Events Cards
+  - Header ✅
+  - Footer  
+  - Title ✅
 - Gallery Page
-- Sponsors Page
+  - Header ✅
+  - Footer
+  - Title 
+- Sponsors Page ✅
 
 
 ## Extra Info
