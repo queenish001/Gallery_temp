@@ -40,6 +40,10 @@ body {
   background-color: seashell;
 
 }
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
 
  /* header {
   z-index: 5;
@@ -786,14 +790,15 @@ body-footer {
     height: 80px;
   }
 }
-.container{
-  position: relative;
-  bottom: 0px;
-  width: 100vw;
-  }
 
 /* @media screen and (max-width :410px){
   .mobile-footer .content{
     flex-direction: ;
   }
 } */
+
+.container{
+  position:relative;
+  bottom: 0px;
+  width: 100vw;
+}

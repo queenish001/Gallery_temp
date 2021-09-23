@@ -203,6 +203,6 @@ notice.play();
 $('.circle').on('click', function (e) {
   var tl = timelines[$(this).attr('id')];
 
-  ping.play();
+  //ping.play();
   tl.replay();
 });
