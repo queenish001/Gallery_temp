@@ -1,14 +1,14 @@
 # Working on the following pages
 
 - Events Cards 
-  - Content []
-  - Photos []
+  - [ ] Content
+  - [ ] Photos
 - Sponsors Page
-  - Content []
-  - Photos []
+  - [ ] Content
+  - [ ] Photos
 - Gallery Page
-  - Photos []
-- Header + Footer Links []
+  - [ ] Photos
+- [ ] Header + Footer Links
 
 
 
