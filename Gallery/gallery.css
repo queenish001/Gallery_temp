@@ -574,7 +574,7 @@ body-footer {
   overflow: hidden;
   height: 100px;
   font-size: 0;
-  position: absolute;
+  position: relative;
   bottom: 0px;
 }
 
