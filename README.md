@@ -16,3 +16,12 @@
 
 * Header Footer Folder: for Navbar and Footer Template Code
 * Font Folder: Template Code for the Page Heading
+
+## Head-coordinators 
+
+* Anandita Khanooja
+* Rochita Sharma
+* Radhika Shrivastava
+* Sanju 
+* Priyasha Jain
+* Navya Gupta 
