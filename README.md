@@ -1,4 +1,4 @@
-# Innerve webpages
+# Innerve web pages
 
 - Events Cards
   - [ ] Content
