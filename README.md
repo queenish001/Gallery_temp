@@ -1,6 +1,6 @@
-# Working on the following pages
+# Innerve web pages
 
-- Events Cards 
+- Events Cards
   - [ ] Content
   - [ ] Photos
 - Sponsors Page
