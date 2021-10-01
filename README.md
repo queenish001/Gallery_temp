@@ -1,4 +1,4 @@
-# Innerve Web pages
+# Innerve Webpages
 
 - Events Cards
   - [ ] Content
@@ -30,3 +30,4 @@
 * Sanju 
 * Priyasha Jain
 * Navya Gupta 
+
