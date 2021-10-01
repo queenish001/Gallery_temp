@@ -750,18 +750,17 @@ body-footer {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
     bottom: 0;
   margin-top: 20px;
-  position: absolute;
+  position: fixed;
   width: 100vw;
   /* height: 15vh; */
+  /* z-index: -10; */
 
   }
   .mobile-footer .notice {
     display: none;
-    position: absolute;
+    position: relative;
     top: 10px;
     left: -1000px;
     width: 500px;
@@ -801,4 +800,9 @@ body-footer {
   position:relative;
   bottom: 0px;
   width: 100vw;
+}
+
+.hidden-para{
+  border: 2px solid seashell;
+  font-size: 4rem;
 }
